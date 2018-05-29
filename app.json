@@ -1,0 +1,25 @@
+{
+  "pages":[
+
+    "pages/index/index", 
+    "pages/login/login", 
+    "pages/balanceSheet/balanceSheet", 
+    "pages/capital/capital",
+    "pages/commerceInfo/commerceInfo", 
+    "pages/copyWith/copyWith", 
+    "pages/payTaxes/payTaxes", 
+    "pages/payroll/payroll", 
+    "pages/profit/profit", 
+    "pages/profitQuarterly/profitQuarterly", 
+    "pages/profitStatement/profitStatement", 
+    "pages/receivable/receivable", 
+    "pages/stock/stock",
+    "pages/companyList/companyList"
+  ],
+  "window":{
+    "backgroundTextStyle":"light",
+    "navigationBarBackgroundColor": "#4E75A7",
+    "navigationBarTitleText": "老板查账",
+    "navigationBarTextStyle":"white"
+  }
+}
